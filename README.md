@@ -1,2 +1,2 @@
 # practica1_fdp
-Practica 1 Fundamentos de programación, Ana Paulina Nava  Barrón 
+Practica 1 Fundamentos de programación,  Grupo 5
